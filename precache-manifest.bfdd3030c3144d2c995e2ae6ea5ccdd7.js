@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "311e7ea72790fe6724560ca3103f13d1",
+    "revision": "c0229e9587f27e181fffda917f8b8443",
     "url": "/digitalsheba-promotional/index.html"
   },
   {
-    "revision": "b3eef3ba27a776d9b065",
+    "revision": "5a7bf3e31b3cabb1262c",
     "url": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "2ccc0e08fcc015c177a5",
+    "revision": "98ad550142564010e0c0",
     "url": "/digitalsheba-promotional/static/css/main.d9dc6ce0.chunk.css"
   },
   {
-    "revision": "b3eef3ba27a776d9b065",
-    "url": "/digitalsheba-promotional/static/js/2.ecd9ef0f.chunk.js"
+    "revision": "5a7bf3e31b3cabb1262c",
+    "url": "/digitalsheba-promotional/static/js/2.8fea8b46.chunk.js"
   },
   {
     "revision": "a7b079a06d99e0bdddae2cf2b771ca7a",
-    "url": "/digitalsheba-promotional/static/js/2.ecd9ef0f.chunk.js.LICENSE.txt"
+    "url": "/digitalsheba-promotional/static/js/2.8fea8b46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ccc0e08fcc015c177a5",
-    "url": "/digitalsheba-promotional/static/js/main.796bbbb0.chunk.js"
+    "revision": "98ad550142564010e0c0",
+    "url": "/digitalsheba-promotional/static/js/main.aaab7268.chunk.js"
   },
   {
     "revision": "9941b8df1ccb517661a4",

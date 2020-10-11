@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/digitalsheba-promotional/static/css/main.d9dc6ce0.chunk.css",
-    "main.js": "/digitalsheba-promotional/static/js/main.796bbbb0.chunk.js",
-    "main.js.map": "/digitalsheba-promotional/static/js/main.796bbbb0.chunk.js.map",
+    "main.js": "/digitalsheba-promotional/static/js/main.aaab7268.chunk.js",
+    "main.js.map": "/digitalsheba-promotional/static/js/main.aaab7268.chunk.js.map",
     "runtime-main.js": "/digitalsheba-promotional/static/js/runtime-main.906c70d8.js",
     "runtime-main.js.map": "/digitalsheba-promotional/static/js/runtime-main.906c70d8.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.ecd9ef0f.chunk.js": "/digitalsheba-promotional/static/js/2.ecd9ef0f.chunk.js",
-    "static/js/2.ecd9ef0f.chunk.js.map": "/digitalsheba-promotional/static/js/2.ecd9ef0f.chunk.js.map",
+    "static/js/2.8fea8b46.chunk.js": "/digitalsheba-promotional/static/js/2.8fea8b46.chunk.js",
+    "static/js/2.8fea8b46.chunk.js.map": "/digitalsheba-promotional/static/js/2.8fea8b46.chunk.js.map",
     "index.html": "/digitalsheba-promotional/index.html",
-    "precache-manifest.39938c86ef91f9bfc070e8619e415306.js": "/digitalsheba-promotional/precache-manifest.39938c86ef91f9bfc070e8619e415306.js",
+    "precache-manifest.bfdd3030c3144d2c995e2ae6ea5ccdd7.js": "/digitalsheba-promotional/precache-manifest.bfdd3030c3144d2c995e2ae6ea5ccdd7.js",
     "service-worker.js": "/digitalsheba-promotional/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.d9dc6ce0.chunk.css.map": "/digitalsheba-promotional/static/css/main.d9dc6ce0.chunk.css.map",
-    "static/js/2.ecd9ef0f.chunk.js.LICENSE.txt": "/digitalsheba-promotional/static/js/2.ecd9ef0f.chunk.js.LICENSE.txt",
+    "static/js/2.8fea8b46.chunk.js.LICENSE.txt": "/digitalsheba-promotional/static/js/2.8fea8b46.chunk.js.LICENSE.txt",
     "static/media/flaticon.css": "/digitalsheba-promotional/static/media/Flaticon.ad6c4e44.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.906c70d8.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.ecd9ef0f.chunk.js",
+    "static/js/2.8fea8b46.chunk.js",
     "static/css/main.d9dc6ce0.chunk.css",
-    "static/js/main.796bbbb0.chunk.js"
+    "static/js/main.aaab7268.chunk.js"
   ]
 }
