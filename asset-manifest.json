@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/digitalsheba-promotional/static/css/main.65c2d50a.chunk.css",
-    "main.js": "/digitalsheba-promotional/static/js/main.c988c898.chunk.js",
-    "main.js.map": "/digitalsheba-promotional/static/js/main.c988c898.chunk.js.map",
+    "main.css": "/digitalsheba-promotional/static/css/main.244d3c1b.chunk.css",
+    "main.js": "/digitalsheba-promotional/static/js/main.979dfa74.chunk.js",
+    "main.js.map": "/digitalsheba-promotional/static/js/main.979dfa74.chunk.js.map",
     "runtime-main.js": "/digitalsheba-promotional/static/js/runtime-main.906c70d8.js",
     "runtime-main.js.map": "/digitalsheba-promotional/static/js/runtime-main.906c70d8.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.27d2a683.chunk.js": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js",
-    "static/js/2.27d2a683.chunk.js.map": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js.map",
+    "static/js/2.a5084561.chunk.js": "/digitalsheba-promotional/static/js/2.a5084561.chunk.js",
+    "static/js/2.a5084561.chunk.js.map": "/digitalsheba-promotional/static/js/2.a5084561.chunk.js.map",
     "index.html": "/digitalsheba-promotional/index.html",
-    "precache-manifest.4e57b7dc1e19d835770c4e3e625c9aa9.js": "/digitalsheba-promotional/precache-manifest.4e57b7dc1e19d835770c4e3e625c9aa9.js",
+    "precache-manifest.df108a88a3ec888c8c53d270474dc1ab.js": "/digitalsheba-promotional/precache-manifest.df108a88a3ec888c8c53d270474dc1ab.js",
     "service-worker.js": "/digitalsheba-promotional/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.65c2d50a.chunk.css.map": "/digitalsheba-promotional/static/css/main.65c2d50a.chunk.css.map",
-    "static/js/2.27d2a683.chunk.js.LICENSE.txt": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js.LICENSE.txt",
-    "static/media/flaticon.css": "/digitalsheba-promotional/static/media/Flaticon.ad6c4e44.ttf"
+    "static/css/main.244d3c1b.chunk.css.map": "/digitalsheba-promotional/static/css/main.244d3c1b.chunk.css.map",
+    "static/js/2.a5084561.chunk.js.LICENSE.txt": "/digitalsheba-promotional/static/js/2.a5084561.chunk.js.LICENSE.txt",
+    "static/media/flaticon.css": "/digitalsheba-promotional/static/media/Flaticon.ad6c4e44.ttf",
+    "static/media/bg_2.jpg": "/digitalsheba-promotional/static/media/bg_2.37173202.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.906c70d8.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.27d2a683.chunk.js",
-    "static/css/main.65c2d50a.chunk.css",
-    "static/js/main.c988c898.chunk.js"
+    "static/js/2.a5084561.chunk.js",
+    "static/css/main.244d3c1b.chunk.css",
+    "static/js/main.979dfa74.chunk.js"
   ]
 }

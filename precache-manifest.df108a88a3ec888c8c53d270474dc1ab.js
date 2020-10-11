@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe352ef8b69cb862a7a50f7d11f5df6d",
+    "revision": "e9b85296a86c4d542c834e7a3fa8253f",
     "url": "/digitalsheba-promotional/index.html"
   },
   {
-    "revision": "89394e06e6fa8a637421",
+    "revision": "99e9b3123ec74a7ab1aa",
     "url": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "3f6eece81be1bfe10f0e",
-    "url": "/digitalsheba-promotional/static/css/main.65c2d50a.chunk.css"
+    "revision": "029596a53d93f8583a55",
+    "url": "/digitalsheba-promotional/static/css/main.244d3c1b.chunk.css"
   },
   {
-    "revision": "89394e06e6fa8a637421",
-    "url": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js"
+    "revision": "99e9b3123ec74a7ab1aa",
+    "url": "/digitalsheba-promotional/static/js/2.a5084561.chunk.js"
   },
   {
-    "revision": "a7b079a06d99e0bdddae2cf2b771ca7a",
-    "url": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/digitalsheba-promotional/static/js/2.a5084561.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f6eece81be1bfe10f0e",
-    "url": "/digitalsheba-promotional/static/js/main.c988c898.chunk.js"
+    "revision": "029596a53d93f8583a55",
+    "url": "/digitalsheba-promotional/static/js/main.979dfa74.chunk.js"
   },
   {
     "revision": "9941b8df1ccb517661a4",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ad6c4e4456bb650c6152855556b22b08",
     "url": "/digitalsheba-promotional/static/media/Flaticon.ad6c4e44.ttf"
+  },
+  {
+    "revision": "37173202ba012d515cc7018bbe81fd6d",
+    "url": "/digitalsheba-promotional/static/media/bg_2.37173202.jpg"
   }
 ]);
