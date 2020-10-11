@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/digitalsheba-promotional/precache-manifest.a0f5c4b6ae28b23b0cc80fc6fb5639e5.js"
+  "/digitalsheba-promotional/precache-manifest.518fc29d6ef901a53d92864b864e5d9a.js"
 );
 
 self.addEventListener('message', (event) => {
