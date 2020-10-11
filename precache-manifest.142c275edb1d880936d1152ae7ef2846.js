@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d972dd5e68dc31fc830f97751fd76c23",
+    "revision": "4e26ed7294d48e08764cd27b2dda41cb",
     "url": "/digitalsheba-promotional/index.html"
   },
   {
-    "revision": "d4b12b130eca723f592e",
+    "revision": "82066b1d55bf37531315",
     "url": "/digitalsheba-promotional/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "8d0b8d2bb5438d4ebaf4",
-    "url": "/digitalsheba-promotional/static/js/2.4756d538.chunk.js"
+    "revision": "ab04643aa954aa9dd51c",
+    "url": "/digitalsheba-promotional/static/js/2.051adba7.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/digitalsheba-promotional/static/js/2.4756d538.chunk.js.LICENSE.txt"
+    "url": "/digitalsheba-promotional/static/js/2.051adba7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4b12b130eca723f592e",
-    "url": "/digitalsheba-promotional/static/js/main.52157e46.chunk.js"
+    "revision": "82066b1d55bf37531315",
+    "url": "/digitalsheba-promotional/static/js/main.cd00c615.chunk.js"
   },
   {
     "revision": "9941b8df1ccb517661a4",
