@@ -55,6 +55,26 @@ class NavBar extends Component {
                     </div>
                 </div>
             </div>
+                <nav className="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
+                    <div className="container d-flex align-items-center">
+                        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span className="fa fa-bars"></span> Menu
+			</button>
+                        <div className="collapse navbar-collapse" id="ftco-nav">
+                            <ul className="navbar-nav m-auto">
+                                <li className="nav-item active"><a href="index.html" className="nav-link">Home</a></li>
+                                <li className="nav-item"><a href="about.html" className="nav-link">About</a></li>
+                                <li className="nav-item"><a href="services.html" className="nav-link">Services</a></li>
+                                <li className="nav-item"><a href="doctors.html" className="nav-link">Doctors</a></li>
+                                <li className="nav-item"><a href="department.html" className="nav-link">Departments</a></li>
+                                <li className="nav-item"><a href="pricing.html" className="nav-link">Pricing</a></li>
+                                <li className="nav-item"><a href="gallery.html" className="nav-link">Gallery</a></li>
+                                <li className="nav-item"><a href="blog.html" className="nav-link">Blog</a></li>
+                                <li className="nav-item"><a href="contact.html" className="nav-link">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
             </React.Fragment>
         );
     }

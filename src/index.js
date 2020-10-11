@@ -3,19 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import {Route, BrowserRouter} from 'react-router-dom';
-
+import {Route, BrowserRouter,Switch} from 'react-router-dom';
+import createHistory from 'history/createBrowserHistory';
 // creating context to pass value
 const context = React.createContext();
 export const CtxConsumer = context.Consumer;
 
 
 const routing = (
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <context.Provider>
-      <div>
+      <Switch>
         <Route exact path="/" component={App}></Route>
-      </div>
+      </Switch>
     </context.Provider>
   </BrowserRouter>
 )
