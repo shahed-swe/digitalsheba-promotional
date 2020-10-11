@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/digitalsheba-promotional/static/css/main.81089f6b.chunk.css",
+    "main.css": "/digitalsheba-promotional/static/css/main.65c2d50a.chunk.css",
     "main.js": "/digitalsheba-promotional/static/js/main.c988c898.chunk.js",
     "main.js.map": "/digitalsheba-promotional/static/js/main.c988c898.chunk.js.map",
     "runtime-main.js": "/digitalsheba-promotional/static/js/runtime-main.906c70d8.js",
@@ -9,10 +9,10 @@
     "static/js/2.27d2a683.chunk.js": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js",
     "static/js/2.27d2a683.chunk.js.map": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js.map",
     "index.html": "/digitalsheba-promotional/index.html",
-    "precache-manifest.518fc29d6ef901a53d92864b864e5d9a.js": "/digitalsheba-promotional/precache-manifest.518fc29d6ef901a53d92864b864e5d9a.js",
+    "precache-manifest.4e57b7dc1e19d835770c4e3e625c9aa9.js": "/digitalsheba-promotional/precache-manifest.4e57b7dc1e19d835770c4e3e625c9aa9.js",
     "service-worker.js": "/digitalsheba-promotional/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.81089f6b.chunk.css.map": "/digitalsheba-promotional/static/css/main.81089f6b.chunk.css.map",
+    "static/css/main.65c2d50a.chunk.css.map": "/digitalsheba-promotional/static/css/main.65c2d50a.chunk.css.map",
     "static/js/2.27d2a683.chunk.js.LICENSE.txt": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js.LICENSE.txt",
     "static/media/flaticon.css": "/digitalsheba-promotional/static/media/Flaticon.ad6c4e44.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.906c70d8.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.27d2a683.chunk.js",
-    "static/css/main.81089f6b.chunk.css",
+    "static/css/main.65c2d50a.chunk.css",
     "static/js/main.c988c898.chunk.js"
   ]
 }

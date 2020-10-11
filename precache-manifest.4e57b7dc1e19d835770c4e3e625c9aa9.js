@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cce540b20a8723f7b70fdf8150efa54b",
+    "revision": "fe352ef8b69cb862a7a50f7d11f5df6d",
     "url": "/digitalsheba-promotional/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digitalsheba-promotional/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "523e3e24a9b9838b7788",
-    "url": "/digitalsheba-promotional/static/css/main.81089f6b.chunk.css"
+    "revision": "3f6eece81be1bfe10f0e",
+    "url": "/digitalsheba-promotional/static/css/main.65c2d50a.chunk.css"
   },
   {
     "revision": "89394e06e6fa8a637421",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digitalsheba-promotional/static/js/2.27d2a683.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "523e3e24a9b9838b7788",
+    "revision": "3f6eece81be1bfe10f0e",
     "url": "/digitalsheba-promotional/static/js/main.c988c898.chunk.js"
   },
   {
