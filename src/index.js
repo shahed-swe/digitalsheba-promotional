@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import {Route, BrowserRouter,Switch} from 'react-router-dom';
-import createHistory from 'history/createBrowserHistory';
+
 // creating context to pass value
 const context = React.createContext();
 export const CtxConsumer = context.Consumer;
